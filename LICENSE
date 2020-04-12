@@ -7,4 +7,4 @@ The end-user agrees that.
   
   3: The user abides by Mojang's EULA and doesn't publish modified versions behind a paywall or AD wall e.g., ad.fly
   4: the user uses this same license with the addition of the distributor(s) name/username where the * is.
-  5: a copy of this licence must be in the same folder as the pack.mcmeta and data directery
+  5: a copy of this licence must be in the shallowest folder as how the datapack comes when downloaded
