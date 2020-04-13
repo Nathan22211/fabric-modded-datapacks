@@ -1,0 +1,4 @@
+suludom: https://www.curseforge.com/minecraft/mc-mods/suludom
+NBT crafting: https://www.curseforge.com/minecraft/mc-mods/nbt-crafting
+libCD: https://www.curseforge.com/minecraft/mc-mods/libcd
+corial woodcutter: https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter/files/2909337
