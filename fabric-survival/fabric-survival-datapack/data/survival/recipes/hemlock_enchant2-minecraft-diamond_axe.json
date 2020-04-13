@@ -1,0 +1,27 @@
+{
+	"type": "nbtcrafting:anvil",
+	"base": {
+		"item": "minecraft:potion",
+        "data": {
+            "Potion": "minecraft:strong_harming"
+        }
+	},
+	"ingredient": {
+		"item": "minecraft:diamond_axe",
+		"data": {
+			"Enchant": [
+				"Magic_life1"
+			]
+		}
+	},
+	"result": {
+		"item": "minecraft:diamond_axe",
+        "data": {
+            "$": "$ i1",
+            "Enchant": [
+                "Magic_life2"
+            ]
+        }
+	},
+	"levels": 6
+}

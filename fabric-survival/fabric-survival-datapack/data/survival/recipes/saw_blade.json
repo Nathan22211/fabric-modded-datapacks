@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#i#",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_nugget"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:command_block",
+        "count": 1,
+        "data": {
+            "display": {
+                "Name": "{\"text\":\"saw blade\",\"color\":\"white\",\"italic\":false}"
+            },
+            "CustomModelData": 12070001,
+            "OreDict": [
+                "SawIron"
+            ]
+        }
+    }
+}

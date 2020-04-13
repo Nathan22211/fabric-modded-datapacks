@@ -1,0 +1,22 @@
+{
+    "type": "nbtcrafting:anvil",
+    "base": {
+        "item": "minecraft:blaze_rod",
+        "data": {
+            "gm4_lightning_rod": "1b"
+        }
+    },
+    "ingredient": {
+        "item": "suludom:generic_sword"
+    },
+    "result": {
+        "item": "suludom:generic_sword",
+        "data": {
+            "$": "$ ingredient",
+            "Enchant": [
+                "Lightning"
+            ]
+        }
+    },
+    "levels": 5
+}

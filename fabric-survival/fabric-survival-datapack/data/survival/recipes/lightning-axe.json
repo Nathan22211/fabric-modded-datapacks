@@ -1,0 +1,19 @@
+{
+    "type": "nbtcrafting:anvil",
+    "base": {
+        "item": "minecraft:stone_sword",
+    },
+    "ingredient": {
+        "item": "minecraft:yellow_dye"
+    },
+    "result": {
+        "item": "minecraft:golden_sword",
+        "data": {
+            "$": "$ingredient",
+            "Enchant": [
+                "Lighting"
+            ]
+        }
+    },
+    "levels": 5
+}

@@ -1,0 +1,23 @@
+{
+	"type": "nbtcrafting:brewing",
+	"base": {
+		"item": "minecraft:potion",
+        "data": {
+            "require": {
+                "Potion": "minecraft:water"
+            }
+        }
+	},
+	"ingredient": {
+		"item": "terrestria:hemlock_leaves"	
+	},
+	"result": {
+		"item": "minecraft:potion",
+        "data": {
+            "Potion": "minecraft:harming",
+            "display": {
+                "Name": "{\"Translate\":\"chem.hemlock.chem\"}"
+            }
+		}
+	}
+}

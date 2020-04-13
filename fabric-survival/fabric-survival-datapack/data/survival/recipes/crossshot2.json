@@ -1,0 +1,29 @@
+{
+    "type": "nbtcrafting:anvil",
+    "base": {
+        "item": "minecraft:bow"
+    },
+    "ingredient": {
+        "item": "minecraft:crossbow",
+        "data": {
+            "Enchantments": [
+                {
+                    "id": "minecraft:multishot",
+                    "lvl": 1
+                }
+            ]
+        }
+    },
+    "result": {
+        "item": "minecraft:crossbow",
+        "data": {
+            "Enchantments": [
+                {
+                    "id": "minecraft:multishot",
+                    "lvl": 2
+                }
+            ]
+        }
+    },
+    "levels": 3
+}

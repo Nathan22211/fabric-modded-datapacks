@@ -1,0 +1,33 @@
+{
+	"type": "nbtcrafting:anvil",
+	"base": {
+		"item": "minecraft:player_head",
+        "data": {
+            "gm4_heart_canister_teir": 1
+        }
+	},
+	"ingredient": {
+		"item": "minecraft:diamond_chestplate"
+	},
+	"result": {
+		"item": "minecraft:diamond_chestplate",
+        "data": {
+            "$": "$ i1",
+            "HideFlags": 2,
+            "AttributeModifiers": [
+                {
+                    "AttributeName": "generic.maxHealth",
+                    "Name": "generic.maxHealth",
+                    "Amount": 4,
+                    "Operation": 0,
+                    "UUIDLeast": 549260,
+                    "UUIDMost": 739495
+                }
+            ],
+            "Enchant": [
+                "Healthup1"
+            ]
+        }
+	},
+	"levels": 3
+}

@@ -1,0 +1,26 @@
+{
+    "type": "nbtcrafting:anvil",
+    "base": {
+        "item": "minecraft:potion",
+        "data": {
+            "require": {
+                "OreDict": [
+                    "PoisonLiquid"
+                ]
+            }
+        }
+    },
+    "ingredient": {
+        "item": "suludom:generic_axe"
+    },
+    "result": {
+        "item": "suludom:generic_axe",
+        "data": {
+            "$": "$ ingredient",
+            "Enchant": [
+                "Poison"
+            ]
+        }
+    },
+    "levels": 3
+}

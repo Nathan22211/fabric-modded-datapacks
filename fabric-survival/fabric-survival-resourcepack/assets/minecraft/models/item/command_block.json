@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:block/command_block",
+	"overrides": [{
+			"predicate": {
+				"custom_model_data": 12070001
+			},
+			"model": "item/saw_blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12070002
+			},
+			"model": "item/god_shard"
+		}
+	]
+}
