@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "IGI",
+        "III"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_helmet"
+        },
+        "I": {
+            "item": "minecraft:cobblestone"
+        },
+        "G": {
+            "item": "minecraft:glass_pane"
+        }
+    },
+    "result": {
+        "item": "minecraft:item_frame",
+        "count": 1,
+        "data": {
+            "CustomModelData": 2,
+            "display": {
+                "Name": "{\"text\":\"Oven\",\"italic\":false}",
+                "Lore": [
+                    "{\"text\":\"Better Bread\",\"color\":\"dark_gray\",\"italic\":false}"
+                ],
+            "EntityTag": {
+                "Tags": [
+                    "sandwiches_galore",
+                    "place",
+                    "place_oven"
+                ]
+            },
+            "Invisible": 1
+            }
+        }
+    }
+}
